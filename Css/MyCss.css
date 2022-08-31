@@ -1,3 +1,27 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bungee&family=Cinzel&family=Gloria+Hallelujah&family=Press+Start+2P&display=swap');
 /* Fontfamily: Alfa Slab One, Press Start 2P, Bungee, Gloria Hallelujah, Cinzel */
+
+
+body
+{
+    background-color: antiquewhite;
+}
+
+.TituloPrimario
+{
+    font-family: Cinzel, arial;
+    text-align: center;
+}
+
+.Form
+{
+    padding: 28px 32px;
+    background-color: white;
+    border: 1px solid;
+    border-color: black;
+    align-items: center;
+    max-width: 400px;
+    margin: auto;
+}
+
