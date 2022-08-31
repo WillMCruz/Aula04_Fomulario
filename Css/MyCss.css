@@ -8,6 +8,20 @@ body
     background-color: antiquewhite;
 }
 
+fieldset
+{
+    width: 30%;
+}
+
+label
+{
+    color: #592C12;
+    font-family: Gloria Hallelujah, Arial;
+    font-size: 14;
+    display: block;
+    padding: 8;
+}
+
 .TituloPrimario
 {
     font-family: Cinzel, arial;
